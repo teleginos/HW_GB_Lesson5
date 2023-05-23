@@ -3,7 +3,7 @@
     int[] arr = new int[num];
     for(int i = 0; i < num; i++)
     {
-        arr[i] = new Random().Next(100, 1000);
+        arr[i] = new Random().Next(-100, 100);
     }
     return arr;
 }
@@ -11,12 +11,9 @@
 int SearchForEvenNumbers(int[] array)
 {
     int SumCount = 0;
-    foreach (int item in array)
+    for(int i = 1; i < array.Length; i += 2)
     {
-        if(item % 2 == 0)
-        {
-            SumCount += 1;
-        }
+        SumCount += array[i];
     }
     return SumCount;
 }
