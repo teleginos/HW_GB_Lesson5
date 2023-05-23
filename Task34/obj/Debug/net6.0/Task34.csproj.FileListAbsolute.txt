@@ -1,0 +1,16 @@
+E:\C#\HomeWork_GB_C#Lesson5\Task34\bin\Debug\net6.0\Task34.exe
+E:\C#\HomeWork_GB_C#Lesson5\Task34\bin\Debug\net6.0\Task34.deps.json
+E:\C#\HomeWork_GB_C#Lesson5\Task34\bin\Debug\net6.0\Task34.runtimeconfig.json
+E:\C#\HomeWork_GB_C#Lesson5\Task34\bin\Debug\net6.0\Task34.dll
+E:\C#\HomeWork_GB_C#Lesson5\Task34\bin\Debug\net6.0\ref\Task34.dll
+E:\C#\HomeWork_GB_C#Lesson5\Task34\bin\Debug\net6.0\Task34.pdb
+E:\C#\HomeWork_GB_C#Lesson5\Task34\obj\Debug\net6.0\Task34.GlobalUsings.g.cs
+E:\C#\HomeWork_GB_C#Lesson5\Task34\obj\Debug\net6.0\Task34.csproj.AssemblyReference.cache
+E:\C#\HomeWork_GB_C#Lesson5\Task34\obj\Debug\net6.0\Task34.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\HomeWork_GB_C#Lesson5\Task34\obj\Debug\net6.0\Task34.AssemblyInfoInputs.cache
+E:\C#\HomeWork_GB_C#Lesson5\Task34\obj\Debug\net6.0\Task34.AssemblyInfo.cs
+E:\C#\HomeWork_GB_C#Lesson5\Task34\obj\Debug\net6.0\Task34.csproj.CoreCompileInputs.cache
+E:\C#\HomeWork_GB_C#Lesson5\Task34\obj\Debug\net6.0\Task34.dll
+E:\C#\HomeWork_GB_C#Lesson5\Task34\obj\Debug\net6.0\ref\Task34.dll
+E:\C#\HomeWork_GB_C#Lesson5\Task34\obj\Debug\net6.0\Task34.pdb
+E:\C#\HomeWork_GB_C#Lesson5\Task34\obj\Debug\net6.0\Task34.genruntimeconfig.cache
